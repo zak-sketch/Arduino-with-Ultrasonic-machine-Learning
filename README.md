@@ -8,6 +8,6 @@ including:
  wheels
  arduino MEGA 2560
  H-bridge L298
- Lipi Battery 
+ Lipo Battery 
  
  the project was funtastic
